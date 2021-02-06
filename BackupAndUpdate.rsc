@@ -38,7 +38,7 @@
 :local backupPassword ""
 
 ## If true, passwords will be included in exported config.
-:local sensetiveDataInConfig false;
+:local sensetiveDataInConfig true;
 
 ## Update channel. Possible values: stable, long-term, testing, development
 :local updateChannel "stable";
